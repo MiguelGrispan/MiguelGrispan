@@ -7,6 +7,5 @@
 
 <h3 align="left ">Conecte-se comigo:</h3>
 <p align="left">
-<a href= target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguel henrique grispan alves" height="30" width="40" /></a>
-<a href="https://discord.gg/#1900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/discord.svg" alt="#1900" height="30" width="40" /></a>
+<a href="https://discord.gg/#1900" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1900" height="30" width="40" /></a>
 </p>
